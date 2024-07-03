@@ -17,7 +17,7 @@ Data engineer • Frontend • Studant
 
 </div>
 
-<img src="https://github.com/felipeAguiarCode/felipeAguiarCode/blob/master/.github/assets/lineBar.png?raw=true" width="100%" height="8px"/>
+<img src="asserts/cor_barra_roxa.png" width="100%" height="8px"/>
 
 <div><br/>
 
@@ -53,7 +53,7 @@ Data engineer • Frontend • Studant
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" />My journey with stacks began with frontend using Angular and backend using Python, and now I am exploring the fields of data engineering and data analytics.  <br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I am a communicative and proactive person who loves to exchange knowledge.<br />
 
-<img src="https://github.com/felipeAguiarCode/felipeAguiarCode/blob/master/.github/assets/lineBar.png?raw=true" width="100%" height="8px"/>
+<img src="asserts/cor_barra_roxa.png" width="100%" height="8px"/>
 
 
 <h3>Contact Me</h3>
