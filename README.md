@@ -5,7 +5,7 @@
 </div>
 
 <h3 align="center">
-Data engineer • Frontend • Studant
+Data engineer • Software Developer • Studant
 </h3>
 
 <div align='center'>
@@ -23,18 +23,22 @@ Data engineer • Frontend • Studant
 
 ## &nbsp;My Stack or learning
 <div style ="display: inline_block">
-<img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=html" />
 <img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=angular" />
 <img src="https://skillicons.dev/icons?i=ts" />
 <img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=dotnet" />
+<img src="https://skillicons.dev/icons?i=angular" />
+<img src="https://skillicons.dev/icons?i=django" />
+<img src="https://skillicons.dev/icons?i=flask" />
+<img src="https://skillicons.dev/icons?i=kubernetes" />
 <img src="https://skillicons.dev/icons?i=aws" />
+<img src="https://skillicons.dev/icons?i=azure" />
 <img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=ai" />
+<img src="https://skillicons.dev/icons?i=postman" />
 <img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
-<img align="top" height=40 width=40 alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=terraform" />
 <img align="top" height=40 width=40 alt="apacheairflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
 <img align="top" height=40 width=40 alt="sql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
           
