@@ -5,7 +5,7 @@
 </div>
 
 <h3 align="center">
-Data engineer • Software Developer • Studant
+Data engineer • Software Developer
 </h3>
 
 <div align='center'>
@@ -25,6 +25,7 @@ Data engineer • Software Developer • Studant
 <div style ="display: inline_block">
 <img src="https://skillicons.dev/icons?i=ts" />
 <img src="https://skillicons.dev/icons?i=python" />
+<img align="top" height=40 width=40 alt="sql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 <img src="https://skillicons.dev/icons?i=angular" />
 <img src="https://skillicons.dev/icons?i=django" />
 <img src="https://skillicons.dev/icons?i=flask" />
@@ -40,7 +41,6 @@ Data engineer • Software Developer • Studant
 <img src="https://skillicons.dev/icons?i=docker" />
 <img src="https://skillicons.dev/icons?i=terraform" />
 <img align="top" height=40 width=40 alt="apacheairflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
-<img align="top" height=40 width=40 alt="sql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 <img align="top" height=80 width=80 alt="databricks" src="https://1000logos.net/wp-content/uploads/2025/01/Databricks-Emblem.png" />
 <img align="top" height=85 width=85 alt="dbt" src="https://miro.medium.com/v2/resize:fit:1200/0*HfhEwlaisB71Ft1h.png" />
 </div>
@@ -48,7 +48,7 @@ Data engineer • Software Developer • Studant
 ## About me
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hi there, my name is Rafael, and what I like most is solving problems using technology <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My current goal is become a Data engineer.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My current goal is to specialize in data engineering and analytics engineering.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" />My journey with stacks began with frontend using Angular and backend using Python, and now I am exploring the fields of data engineering and data analytics.  <br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I am a communicative and proactive person who loves to exchange knowledge.<br />
 
