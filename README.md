@@ -23,16 +23,16 @@ Data engineer • Software Developer • Studant
 
 ## &nbsp;My Stack or learning
 <div style ="display: inline_block">
-<img src="https://skillicons.dev/icons?i=js" />
 <img src="https://skillicons.dev/icons?i=ts" />
 <img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=dotnet" />
 <img src="https://skillicons.dev/icons?i=angular" />
 <img src="https://skillicons.dev/icons?i=django" />
 <img src="https://skillicons.dev/icons?i=flask" />
+<img src="https://skillicons.dev/icons?i=fastapi" />
 <img src="https://skillicons.dev/icons?i=kubernetes" />
 <img src="https://skillicons.dev/icons?i=aws" />
 <img src="https://skillicons.dev/icons?i=azure" />
+<img src="https://skillicons.dev/icons?i=gcp" />
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=ai" />
 <img src="https://skillicons.dev/icons?i=postman" />
@@ -41,13 +41,8 @@ Data engineer • Software Developer • Studant
 <img src="https://skillicons.dev/icons?i=terraform" />
 <img align="top" height=40 width=40 alt="apacheairflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
 <img align="top" height=40 width=40 alt="sql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-          
-          
-
-          
-          
-
-
+<img align="top" height=80 width=80 alt="databricks" src="https://1000logos.net/wp-content/uploads/2025/01/Databricks-Emblem.png" />
+<img align="top" height=85 width=85 alt="dbt" src="https://miro.medium.com/v2/resize:fit:1200/0*HfhEwlaisB71Ft1h.png" />
 </div>
 
 ## About me
